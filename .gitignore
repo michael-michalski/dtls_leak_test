@@ -24,3 +24,5 @@ dtls_leak_test-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+trace_ssl_gen_statem.txt
